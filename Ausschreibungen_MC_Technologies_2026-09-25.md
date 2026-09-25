@@ -1,0 +1,42 @@
+# Ausschreibungen-Radar MC Technologies — Woche KW39/2026 (Stand: 25.09.2026)
+
+Betrachtungszeitraum: 18.09.2026 – 25.09.2026 (Publikationsdatum)
+
+## Management Summary
+
+Diese Woche wurden über die **TED-API (EU-Ebene)** 307 neue Ausschreibungen im relevanten CPV-/Volltext-Suchraster veröffentlicht. Nach strenger Filterung auf unser Hardware-Portfolio (Antennen, IoT-Router/-Gateways, Steckverbinder, Kabelkonfektion) — inklusive Aussortierung von Falschtreffern aus der sehr breiten CPV-Klasse 32420000 ("Netzausrüstung", generische Switches/Server/Firewalls) — bleiben **14 Projekte mit klarem Hardware-Bezug** übrig. Schwerpunkt diese Woche: **NB-IoT-/LTE-Wasserzähler-Fernauslesung** (Spanien, Polen x2, gleich mehrere Großprojekte im zweistelligen Millionenbereich) sowie ein **direkter Antennen-Treffer in Deutschland** (EnBW-Rahmenvertrag für Stromzähler-Antennenzubehör).
+
+Auf den deutschen nationalen Vergabeplattformen (service.bund.de, DTVP, evergabe-online.de, evergabe.nrw.de, vergabe.bayern.de u. a.) konnte im engen 7-Tage-Fenster erneut **kein zusätzliches, eindeutig neues Hardware-Projekt** verifiziert werden — die Portale sind JavaScript-lastig und über generische Websuche kaum mit Datumsbezug indexierbar (Details siehe technischer Hinweis unten).
+
+**Empfehlung:** Priorität auf den EnBW-Rahmenvertrag "Zubehör Stromzähler Antennen" (direkter Match, deutscher Kunde) sowie auf das rumänische Antennen-/Steckverbinder-Projekt der Telekommunikationsbehörde STS legen. Bei den NB-IoT-Wasserzähler-Großprojekten (Aquanet PL, Canal de Isabel II ES) lohnt sich eine Prüfung, ob der jeweilige Hauptauftragnehmer (Zähler-/Systemintegrator) als Zulieferziel für Antennen/M12-Steckverbinder in Frage kommt.
+
+---
+
+## EU-Ebene (TED)
+
+| Projekt | Vergabestelle | Land | Budget | Deadline | Einschätzung |
+|---|---|---|---|---|---|
+| [Antennen und Reflektoren – Sisteme radiante](https://ted.europa.eu/de/notice/-/detail/644212-2026) | Serviciul de Telecomunicatii Speciale | RO | 420.162 € | offen (Rahmenvertrag) | Direkter Volltreffer: Antennen (TETRA omnidirektional), RF-Arrester, GPS-Arrester und DIN-Steckverbinder für HF-Kabel 7/8" – exakt unser Antennen-/Steckverbinder-Portfolio. |
+| [Zubehör Stromzähler Antennen](https://ted.europa.eu/de/notice/-/detail/645592-2026) | EnBW Energie Baden-Württemberg AG | DE | k. A. | Rahmenvertrag 01.08.2026–31.12.2028 | Deutscher Großkunde beschafft explizit Antennenzubehör für Stromzähler (Smart Metering) – direkter Bezug zu unserem Antennen-Portfolio, laufender Rahmenvertrag. |
+| [Suministro de contadores de agua con NB-IoT integrado](https://ted.europa.eu/de/notice/-/detail/654241-2026) | Canal de Isabel II, S.A., M.P. | ES | k. A. (Großprojekt) | k. A. | NB-IoT-Wasserzähler inkl. Telekommunikationsdienst für Fernauslesung – Bedarf an NB-IoT-Antennen/-Modulen für Zähler-Rollout. |
+| [Zakup i wdrożenie systemu zdalnych odczytów wodomierzy (IoT)](https://ted.europa.eu/de/notice/-/detail/662301-2026) | Aquanet S.A. | PL | ca. 60.972.922 PLN (≈14 Mio. €) | k. A. | Sehr großes IoT-Wasserzähler-Fernauslesesystem – erheblicher Bedarf an IoT-Modulen/Antennen für die Sensorik-Infrastruktur. |
+| [Budowa systemu odczytów wodomierzy (NB-IoT/LTE-CAT-M)](https://ted.europa.eu/de/notice/-/detail/643783-2026) | Przedsiębiorstwo Wodociągów i Kanalizacji Ruda Śląska | PL | k. A. | **30.09.2026** (sehr kurzfristig!) | Smart-Metering mit NB-IoT/LTE-CAT-M in lizenzierten Frequenzbändern – Bedarf an Antennen/M12-Steckverbindern für Wasserzähler-Sensorknoten. |
+| [Servizio di instradamento traffico dati e fornitura SIM NB-IoT M2M](https://ted.europa.eu/de/notice/-/detail/645937-2026) | (Auftraggeber über IREN/IRETI-Gruppe) | IT | 12.237.044 € | k. A. | Großvolumiges M2M/NB-IoT-Datenroutingprojekt – Anbieter benötigt typischerweise M2M-Router/-Gateways für die Anbindung. |
+| [Acquisition de matériels automates et GTB (IoT/LoRaWAN)](https://ted.europa.eu/de/notice/-/detail/644806-2026) | Université d'Angers | FR | 175.000 € | 22.10.2026 | Gebäudeleittechnik mit expliziten IoT-/LoRaWAN-Gateways, Sensoren und Kommunikationsequipment – direkter Bezug zu unseren IoT-Gateways/Antennen. |
+| [Fourniture et livraison d'instruments de télétransmission de données](https://ted.europa.eu/de/notice/-/detail/651720-2026) | CEREMA | FR | k. A. | 19.10.2026 | Rahmenvertrag für Datenerfassungs- und Fernübertragungsinstrumente inkl. Beratung zu Übertragungstechnologien – Bedarf an Sensor-/Telemetrie-Hardware. |
+| [Inovácie verejných služieb SMART CITY](https://ted.europa.eu/de/notice/-/detail/657741-2026) | Mesto Trenčín | SK | 1.977.647 € | 06.10.2026 | Smart-City-Datenplattform als Basis für künftige Sensor-/IoT-Anbindungen – Folgebedarf an Smart-City-Hardware wahrscheinlich. |
+| [Rakentamis- ja LVISA-tarvikkeet – Teleasennuskaapelit (DPS)](https://ted.europa.eu/de/notice/-/detail/660162-2026) | Hansel Oy (staatl. Beschaffungsstelle Finnland) | FI | 1.750.000 € | laufendes dynamisches Beschaffungssystem bis 07.07.2027 | Landesweites Rahmenabkommen für Telekommunikations-/Installationskabel – direkter Bezug zu unserer Kabelkonfektion, laufend beitrittsfähig. |
+| [Modernizare Sistem GIS și achiziție senzori monitorizare (balize)](https://ted.europa.eu/de/notice/-/detail/653224-2026) | Autoritatea Navală Română | RO | 2.014.875 RON (≈400.000 €) | k. A. | GIS-Modernisierung inkl. Beschaffung von Monitoring-Sensor-Bojen – Bedarf an Antennen/Funkmodulen für maritime Sensorknoten. |
+| [Research Buoys (Sensoren)](https://ted.europa.eu/de/notice/-/detail/660956-2026) | NTNU | NO | k. A. | k. A. | Forschungsbojen mit Sensorik – potenzieller Bedarf an robusten Antennen/Steckverbindern für maritime Anwendungen. |
+| [Landelijk IoT-netwerk op Stations / IoT Meetstations Gladheidssensoren](https://ted.europa.eu/de/notice/-/detail/646142-2026) | ProRail B.V. | NL | 1.780.000 € (+ 780.000 € Schwesterprojekt [643977-2026](https://ted.europa.eu/de/notice/-/detail/643977-2026)) | k. A. | Aufbau eines landesweiten IoT-Netzwerks samt Basisstationen und IoT-Messstationen auf Bahnhöfen – Bedarf an IoT-Gateways/Antennen. |
+| [Dynamický nákupní systém – Kommunikations-/Fernmeldeanlagen & Kabel (DPS)](https://ted.europa.eu/de/notice/-/detail/647852-2026) | ČD-Telematika a.s. | CZ | mehrere Mini-Abrufe 38–219 Tsd. CZK diese Woche | laufend | Dynamisches Beschaffungssystem für Ersatzteile von Telekom-/Sendetechnik inkl. Kabel & Komponenten – laufender Bedarfsträger, Registrierung im DPS empfehlenswert für künftige Abrufe. |
+
+## DACH (nationale Ebene)
+
+Keine über die geprüften nationalen Portale (service.bund.de, evergabe-online.de, DTVP, evergabe.nrw.de, vergabe.bayern.de, vergabe.niedersachsen.de, had.de, evergabe.berlin.de, vergabe.brandenburg.de, vergabe.rib.de) im 7-Tage-Fenster zweifelsfrei verifizierten Neuveröffentlichungen mit Hardware-Bezug. Zur Marktbeobachtung folgende Randnotizen ohne direkten Handlungsbedarf diese Woche (alle außerhalb des 7-Tage-Fensters, aber als Beleg für wiederkehrenden Bedarf vermerkt):
+
+- **Landkreis Emmendingen** – "Digitale Alarmierung (Hardware & Aufbau)", Los 2 Antennenmasten/-technik für POCSAG-Alarmierungssystem. Veröffentlicht 06.09.2026, damit außerhalb des Fensters – für künftige Wochen im Blick behalten.
+- **Westfalen Weser Netz GmbH** (Herford) – Fernwirktechnik für Kleinanlagen (~650 Fernwirkgeräte inkl. LTE450-Routern), bereits im Februar 2026 veröffentlicht, Angebotsfrist verstrichen (27.03.2026) – weiterhin als Beleg für Netzbetreiber-Bedarf vermerkt.
+- **DTVP** – Ausschreibung für LWL-Kabel und -Leitungen (Glasfaser, nicht Koax/RF), datiert 18.06.2026 – nur am Rande relevant.
+
+**Technischer Hinweis:** Die deutschen Vergabeportale sind größtenteils JavaScript-Single-Page-Applications ohne offene Such-API; eine zuverlässige automatisierte Wochenabfrage würde einen kostenpflichtigen RSS-/Benachrichtigungsdienst (z. B. DTVP-Benachrichtigungsservice) oder eine Browser-Automatisierung erfordern, die in dieser Sandbox-Umgebung weiterhin nicht funktionsfähig ist. Diese Woche wurde zusätzlich geprüft, ob Drittanbieter-Aggregatoren (bauportal-deutschland.de, vergabepilot.ai) über generische Websuche brauchbare, datumsscharfe Treffer liefern – das ist eingeschränkt möglich, aber die Snippets liefern oft keine zuverlässigen Veröffentlichungsdaten. Für künftige Läufe empfiehlt sich die Einrichtung eines DTVP-Suchprofils mit E-Mail-Benachrichtigung sowie ggf. ein kostenpflichtiger Zugang zu vergabepilot.ai/bauportal-deutschland.de als Ergänzung zu diesem Report.
